@@ -1,4 +1,5 @@
 Naziv aplikacije: EASY LIFE
+
 UVOD
 Dobrodošli u izvještaj o projektu našeg studentskog hakatona na temu automatizacije doma,
 tačnije naš inovativni web aplikaciju osmišljenu kako bi svakodnevni život bio još jednostavniji.
