@@ -64,7 +64,9 @@ prijedlozi ili povratne informacije su dobrodošli. Ako primijetite greške u ko
 
 
 Demo aplikacije: http://easylife.ba.www326.your-server.de
+
 Prezentacija: https://docs.google.com/presentation/d/1zHS_49SH2jlGqgah9W8tkZw8ORamg9ST/edit#slide=id.p1
+
 Radujemo se vašem doprinosu u poboljšanju EasyLife aplikacije!
 
 
